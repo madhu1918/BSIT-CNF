@@ -1,0 +1,237 @@
+{
+	"title": "ITN201 Computer Networks Course",
+	"overview": [],
+	"learningObjectives": [],
+	"units": [{
+			"title": "Introduction to Networking - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Computer Networks Recap",
+				"Video on Course Introduction",
+				"Video on TCP/IP Five layer Network Model",
+				"Video on OSI Networking Model",
+				"Video on Cables",
+				"Video on Hubs and Switches",
+				"Video on Routers"
+			]
+		},
+		{
+			"title": "Introduction to Networking - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Servers and Clients",
+				"Video on Moving bits across the wire",
+				"Video on Twisted pair cabling and Duplexing",
+				"Video on Network ports and Patch Panels",
+				"Video on Ethernet and MAC address",
+				"Video on Unicast, Multicast and Broadcast",
+				"Video on Dissecting an Ethernet Frame"
+			]
+		},
+		{
+			"title": "The Network Layer - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on The Internet",
+				"Video on Introduction to Network Layer",
+				"Video on IP Address",
+				"Video on IP Datagrams and Encapsulation",
+				"Video on IP Address Classes",
+				"Video on Address Resolution Protocol",
+				"Video on Subnetting"
+			]
+		},
+		{
+			"title": "The Network Layer - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Subnet Masks",
+				"Video on Basic Binary Math",
+				"Video on CIDR",
+				"Video on Basic Routing Concepts",
+				"Video on Routing Tables",
+				"Video on Interior Gateway Protocols",
+				"Video on Exterior Gateway Protocols",
+				"Video on Non Routable Address Space"
+			]
+		},
+		{
+			"title": "Transport Layer and Applications Layers - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on The World Wide Web",
+				"Video on Introduction to Transport and Application Layers",
+				"Video on The Transport Layer",
+				"Video on Dissection of a TCP Segment",
+				"Video on TCP control Flags and three way Handshake"
+			]
+		},
+		{
+			"title": "Transport Layer and Applications Layers - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on TCP Socket States",
+				"Video on Connection oriented and Connectionless Protocols",
+				"Video on Firewalls",
+				"Video on The Application Layer",
+				"Video on The Application Layer and OSI Model",
+				"Video on All the Layers working in Unison"
+			]
+		},
+		{
+			"title": "Networking Services - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Introduction to Network Services",
+				"Video on Why do we need DNS ?",
+				"Video on The many steps of name resolution",
+				"Video on DNS and UDP",
+				"Video on Resource Record Types",
+				"Video on Anatomy of a Domain Name",
+				"Video on DNS Zones"
+			]
+		},
+		{
+			"title": "Networking Services - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Overview of DHCP",
+				"Video on DHCP in Action",
+				"Video on Basics of NAT",
+				"Video on NAT and the Transport Layer",
+				"Video on NAT, Non - Routable Address Space and Limits of IPv4",
+				"Video on Virtual Private Networks",
+				"Video on Proxy Services"
+			]
+		},
+		{
+			"title": "Connecting to Internet - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Introduction to Connecting to Internet",
+				"Video on Dial-up, Modems and Point to point Protocols",
+				"Video on What is Broadband ?",
+				"Video on T Carrier Technologies",
+				"Video on Digital Subscriber Lines",
+				"Video on Cable Broadband",
+				"Video on Fiber Connections"
+			]
+		},
+		{
+			"title": "Connecting to Internet - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Wide Area Network Technologies",
+				"Video on Point to Point VPNs",
+				"Video on Introduction to Wireless Technologies",
+				"Video on Wireless Network Configurations",
+				"Video on Wireless Channels",
+				"Video on Wireless Security",
+				"Video on Cellular Networking"
+			]
+		},
+		{
+			"title": "Python Client - Server Model - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Python Socket Programming"
+			]
+		},
+		{
+			"title": "Python Client - Server Model - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Java Socket Programming"
+			]
+		},
+		{
+			"title": "Python Client - Server Model - 3",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Python Multi Connection Client Server - 1"
+			]
+		},
+		{
+			"title": "Python Client - Server Model - 4",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Python Multi Connection Client Server - 2"
+			]
+		},
+		{
+			"title": "Python Client - Server Model - 5",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Python Multi Connection Client Server - 3"
+			]
+		},
+		{
+			"title": "Python Client - Server Model - 6",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Python Multi Connection Client Server - 4"
+			]
+		},
+		{
+			"title": "Trouble Shooting and Future of Networking - 1",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Introduction to Troubleshooting and Future of the Networking",
+				"Video on Ping Internet Control Message Protocol",
+				"Video on Traceroute",
+				"Video on Testing Port Connectivity"
+			]
+		},
+		{
+			"title": "Trouble Shooting and Future of Networking - 2",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on Name Resolution Tools",
+				"Video on Public DNS Servers",
+				"Video on DNS Registration and Expiration",
+				"Video on Hosts Files"
+			]
+		},
+		{
+			"title": "Trouble Shooting and Future of Networking - 3",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on What is the cloud",
+				"Video on Everything as a Service",
+				"Video on Cloud Storage",
+				"Video on IPv6 Addressing and Subnetting"
+			]
+		},
+		{
+			"title": "Trouble Shooting and Future of Networking - 4",
+			"overview": [],
+			"learningObjectives": [],
+			"activities": [
+				"Video on IPv6 Headers",
+				"Video on IPv6 and IPv4 Harmony",
+				"Video on Interview Role Play Networking",
+				"Video on Congratulations"
+			]
+		}
+
+	]
+}
