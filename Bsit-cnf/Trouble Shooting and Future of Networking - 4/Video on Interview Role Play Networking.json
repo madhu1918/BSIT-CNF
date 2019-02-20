@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Video on Interview Role Play Networking",
+		"activityType":"video",
+		"videoURL":"/Interview Role Play: Networking.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Interview Role Play Networking"
+		}
+		]
+	}
+]
+

@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on All the Layers working in Unison",
+		"activityType":"video",
+		"videoURL":"/All the Layers Working in Unison.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on All the Layers working in Unison"
+		}
+		]
+	}
+]

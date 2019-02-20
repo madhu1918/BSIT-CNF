@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Basic Binary Math",
+		"activityType":"video",
+		"videoURL":"/Basic Binary Math.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Basic Binary Math"
+		}
+		]
+	}
+]

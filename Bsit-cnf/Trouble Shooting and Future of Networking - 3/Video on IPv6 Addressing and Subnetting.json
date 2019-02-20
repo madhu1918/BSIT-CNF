@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Video on IPv6 Addressing and Subnetting",
+		"activityType":"video",
+		"videoURL":"/IPv6 Addressing and Subnetting.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on IPv6 Addressing and Subnetting"
+		}
+		]
+	}
+]
+

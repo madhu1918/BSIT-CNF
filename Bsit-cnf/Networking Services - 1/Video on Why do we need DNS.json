@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Video on Why do we need DNS",
+		"activityType":"video",
+		"videoURL":"/Why do we need DNS?.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Why do we need DNS"
+		}
+		]
+	}
+]
+

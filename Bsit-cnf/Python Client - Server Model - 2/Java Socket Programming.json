@@ -1,0 +1,13 @@
+[{
+	"title": "Java Socket Programming",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://realpython.com/python-sockets/#socket-api-overview\">Java Socket Programming Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Java Socket Programming"
+	}]
+}]

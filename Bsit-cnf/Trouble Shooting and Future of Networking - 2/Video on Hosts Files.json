@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Video on Hosts Files",
+		"activityType":"video",
+		"videoURL":"/Hosts Files.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Hosts Files"
+		}
+		]
+	}
+]
+

@@ -1,16 +1,37 @@
 {
 	"title": "ITN201 Computer Networks Course",
-	"overview": [],
-	"learningObjectives": [],
+	"overview": [
+		"On completion of the module, the students will be able to:",
+		"Define key concepts of networking.",
+		"Identify and label networking equipment.",
+		"Compare the ISO-OSI and TCP/IP protocol stacks.",
+		"Build network using different transmission media such as fiber, twister pair, and wireless media.",
+		"Configure, verify, and troubleshoot IPv4 and IPv6 addressing and subnetting for a given network.",
+		"Describe key routing concepts and interpret a given routing table.",
+		"Use networking commands to determine network status.",
+		"Write programs using the socket API to test TCP and UDP protocols.",
+		"Construct a client/server network architecture for a given networking application"
+	],
+	"learningObjectives": [
+		"This module aims to introduce the fundamentals concepts of data communication and networking protocols, and routing technologies. Students will learn to design, install and manage networks and develop socket programming"
+	],
 	"units": [{
 			"title": "Introduction to Networking - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"In the first day of this course, we will cover the basics of computer networking. We will learn about the TCP/IP and OSI networking models and how the network layers work together. We'll also cover the basics of networking devices such as cables, hubs and switches, routers, servers and clients. We'll also explore the physical layer and data link layer of our networking model in more detail. By the end of this module, you will know how all the different layers of the network model fit together to create a network"
+			],
+			"learningObjectives": [
+				"Describe how the TCP/IP five layer network model works.",
+				"Identify basic networking devices.",
+				"Label each of the five layers in the TCP/IP network model.",
+				"Describe how the physical layer works.",
+				"Describe how the data link layer works."
+			],
 			"activities": [
 				"Video on Computer Networks Recap",
 				"Video on Course Introduction",
-				"Video on TCP/IP Five layer Network Model",
-				"Video on OSI Networking Model",
+				"Video on TCP-IP Five layer Network Model",
+				"OSI Networking Model",
 				"Video on Cables",
 				"Video on Hubs and Switches",
 				"Video on Routers"
@@ -18,8 +39,16 @@
 		},
 		{
 			"title": "Introduction to Networking - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"In the first day of this course, we will cover the basics of computer networking. We will learn about the TCP/IP and OSI networking models and how the network layers work together. We'll also cover the basics of networking devices such as cables, hubs and switches, routers, servers and clients. We'll also explore the physical layer and data link layer of our networking model in more detail. By the end of this module, you will know how all the different layers of the network model fit together to create a network"
+			],
+			"learningObjectives": [
+				"Describe how the TCP/IP five layer network model works.",
+				"Identify basic networking devices.",
+				"Label each of the five layers in the TCP/IP network model.",
+				"Describe how the physical layer works.",
+				"Describe how the data link layer works."
+			],
 			"activities": [
 				"Video on Servers and Clients",
 				"Video on Moving bits across the wire",
@@ -32,8 +61,18 @@
 		},
 		{
 			"title": "The Network Layer - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"In the second day of this course, we'll explore the network layer in more depth. We'll learn about the IP addressing scheme and how subnetting works. We'll explore how encapsulation works and how protocols such as ARP allow different layers of the network to communicate. We'll also cover the basics of routing, routing protocols, and how the Internet works. By the end of this module, you'll be able to describe the IP addressing scheme, understand how subnetting works, perform binary math to describe subnets, and understand how the Internet works. "
+			],
+			"learningObjectives": [
+				"Describe the IP addressing scheme.",
+				"Describe how subnetting works.",
+				"Describe subnets by performing basic math in binary.",
+				"Demonstrate how encapsulation works.",
+				"Describe how ARP protocols allow different layers of the network to communicate.",
+				"Describe how the Internet works.",
+				"Understand the basics of routing and routing protocols."
+			],
 			"activities": [
 				"Video on The Internet",
 				"Video on Introduction to Network Layer",
@@ -46,8 +85,18 @@
 		},
 		{
 			"title": "The Network Layer - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"In the second day of this course, we'll explore the network layer in more depth. We'll learn about the IP addressing scheme and how subnetting works. We'll explore how encapsulation works and how protocols such as ARP allow different layers of the network to communicate. We'll also cover the basics of routing, routing protocols, and how the Internet works. By the end of this module, you'll be able to describe the IP addressing scheme, understand how subnetting works, perform binary math to describe subnets, and understand how the Internet works. "
+			],
+			"learningObjectives": [
+				"Describe the IP addressing scheme.",
+				"Describe how subnetting works.",
+				"Describe subnets by performing basic math in binary.",
+				"Demonstrate how encapsulation works.",
+				"Describe how ARP protocols allow different layers of the network to communicate.",
+				"Describe how the Internet works.",
+				"Understand the basics of routing and routing protocols."
+			],
 			"activities": [
 				"Video on Subnet Masks",
 				"Video on Basic Binary Math",
@@ -61,8 +110,15 @@
 		},
 		{
 			"title": "Transport Layer and Applications Layers - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" In the third day of this course, we'll explore the transport and application layers. By the end of this module, you'll be able to describe TCP ports and sockets, identify the different components of a TCP header, show the difference between connection-oriented and connectionless protocols, and explain how TCP is used to ensure data integrity."
+			],
+			"learningObjectives": [
+				"Describe TCP ports and sockets.",
+				"Examine the different components of a TCP header.",
+				"Compare differences between connection-oriented and connectionless protocols.",
+				"Explain how TCP is used to ensure data integrity."
+			],
 			"activities": [
 				"Video on The World Wide Web",
 				"Video on Introduction to Transport and Application Layers",
@@ -73,8 +129,15 @@
 		},
 		{
 			"title": "Transport Layer and Applications Layers - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" In the third day of this course, we'll explore the transport and application layers. By the end of this module, you'll be able to describe TCP ports and sockets, identify the different components of a TCP header, show the difference between connection-oriented and connectionless protocols, and explain how TCP is used to ensure data integrity."
+			],
+			"learningObjectives": [
+				"Describe TCP ports and sockets.",
+				"Examine the different components of a TCP header.",
+				"Compare differences between connection-oriented and connectionless protocols.",
+				"Explain how TCP is used to ensure data integrity."
+			],
 			"activities": [
 				"Video on TCP Socket States",
 				"Video on Connection oriented and Connectionless Protocols",
@@ -86,11 +149,20 @@
 		},
 		{
 			"title": "Networking Services - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"In the fifth day of this course, we'll explore networking services. We'll learn about why we need DNS and how it works. We'll also show you why DHCP makes network administration a simpler task. By the end of this module, you'll be able to do describe how DNS and DHCP work, how NAT technologies help keep networks secure, and how VPNs and proxies help users connect and stay secured."
+			],
+			"learningObjectives": [
+				"Describe why name resolution is important.",
+				"Identify the steps involved with a DNS lookup.",
+				"Understand the most common DNS record types.",
+				"Explain how DHCP makes network administration a simpler task.",
+				"Demonstrate how NAT technologies help keep networks secure and preserve IP address space.",
+				"Describe how VPNs and proxies help users get connected and stay secure."
+			],
 			"activities": [
 				"Video on Introduction to Network Services",
-				"Video on Why do we need DNS ?",
+				"Video on Why do we need DNS",
 				"Video on The many steps of name resolution",
 				"Video on DNS and UDP",
 				"Video on Resource Record Types",
@@ -100,8 +172,17 @@
 		},
 		{
 			"title": "Networking Services - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"In the fifth day of this course, we'll explore networking services. We'll learn about why we need DNS and how it works. We'll also show you why DHCP makes network administration a simpler task. By the end of this module, you'll be able to do describe how DNS and DHCP work, how NAT technologies help keep networks secure, and how VPNs and proxies help users connect and stay secured."
+			],
+			"learningObjectives": [
+				"Describe why name resolution is important.",
+				"Identify the steps involved with a DNS lookup.",
+				"Understand the most common DNS record types.",
+				"Explain how DHCP makes network administration a simpler task.",
+				"Demonstrate how NAT technologies help keep networks secure and preserve IP address space.",
+				"Describe how VPNs and proxies help users get connected and stay secure."
+			],
 			"activities": [
 				"Video on Overview of DHCP",
 				"Video on DHCP in Action",
@@ -114,12 +195,18 @@
 		},
 		{
 			"title": "Connecting to Internet - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" In the seventh day of this course, we'll explore the history of the Internet, how it evolved, and how it works today. We'll understand the different ways to connect to the Internet through cables, wireless and cellular connections, and even fiber connections. By the end of this module, you'll be able to define the components of WANs and outline the basics of wireless and cellular networking"
+			],
+			"learningObjectives": [
+				"Describe various Internet connectivity technologies.",
+				"Define components of WANs.",
+				"Outline the basics of wireless and cellular networking"
+			],
 			"activities": [
 				"Video on Introduction to Connecting to Internet",
 				"Video on Dial-up, Modems and Point to point Protocols",
-				"Video on What is Broadband ?",
+				"Video on What is Broadband",
 				"Video on T Carrier Technologies",
 				"Video on Digital Subscriber Lines",
 				"Video on Cable Broadband",
@@ -128,8 +215,14 @@
 		},
 		{
 			"title": "Connecting to Internet - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" In the seventh day of this course, we'll explore the history of the Internet, how it evolved, and how it works today. We'll understand the different ways to connect to the Internet through cables, wireless and cellular connections, and even fiber connections. By the end of this module, you'll be able to define the components of WANs and outline the basics of wireless and cellular networking"
+			],
+			"learningObjectives": [
+				"Describe various Internet connectivity technologies.",
+				"Define components of WANs.",
+				"Outline the basics of wireless and cellular networking"
+			],
 			"activities": [
 				"Video on Wide Area Network Technologies",
 				"Video on Point to Point VPNs",
@@ -142,56 +235,109 @@
 		},
 		{
 			"title": "Python Client - Server Model - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+			],
+			"learningObjectives": [
+				"understand the key protocols which support the Internet",
+				"have a detailed knowledge of the TCP/UDP Sockets",
+				"create applications using techniques such as multiplexing, forking, multithreading",
+				"make use of different types of I/O such as non-blocking I/O and event driven I/O",
+				"make use of various solutions to perform inter-process communications"
+			],
 			"activities": [
 				"Video on Python Socket Programming"
 			]
 		},
 		{
 			"title": "Python Client - Server Model - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+			],
+			"learningObjectives": [
+				"understand the key protocols which support the Internet",
+				"have a detailed knowledge of the TCP/UDP Sockets",
+				"create applications using techniques such as multiplexing, forking, multithreading",
+				"make use of different types of I/O such as non-blocking I/O and event driven I/O",
+				"make use of various solutions to perform inter-process communications"
+			],
 			"activities": [
-				"Video on Java Socket Programming"
+				"Java Socket Programming"
 			]
 		},
 		{
 			"title": "Python Client - Server Model - 3",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+			],
+			"learningObjectives": [
+				"understand the key protocols which support the Internet",
+				"have a detailed knowledge of the TCP/UDP Sockets",
+				"create applications using techniques such as multiplexing, forking, multithreading",
+				"make use of different types of I/O such as non-blocking I/O and event driven I/O",
+				"make use of various solutions to perform inter-process communications"
+			],
 			"activities": [
-				"Video on Python Multi Connection Client Server - 1"
+				"Python Multi Connection Client Server - 1"
 			]
 		},
 		{
 			"title": "Python Client - Server Model - 4",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+			],
+			"learningObjectives": [
+				"understand the key protocols which support the Internet",
+				"have a detailed knowledge of the TCP/UDP Sockets",
+				"create applications using techniques such as multiplexing, forking, multithreading",
+				"make use of different types of I/O such as non-blocking I/O and event driven I/O",
+				"make use of various solutions to perform inter-process communications"
+			],
 			"activities": [
-				"Video on Python Multi Connection Client Server - 2"
+				"Python Multi Connection Client Server - 2"
 			]
 		},
 		{
 			"title": "Python Client - Server Model - 5",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+			],
+			"learningObjectives": [
+				"understand the key protocols which support the Internet",
+				"have a detailed knowledge of the TCP/UDP Sockets",
+				"create applications using techniques such as multiplexing, forking, multithreading",
+				"make use of different types of I/O such as non-blocking I/O and event driven I/O",
+				"make use of various solutions to perform inter-process communications"
+			],
 			"activities": [
-				"Video on Python Multi Connection Client Server - 3"
+				"Python Multi Connection Client Server - 3"
 			]
 		},
 		{
 			"title": "Python Client - Server Model - 6",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				"Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server."
+			],
+			"learningObjectives": [
+				"understand the key protocols which support the Internet",
+				"have a detailed knowledge of the TCP/UDP Sockets",
+				"create applications using techniques such as multiplexing, forking, multithreading",
+				"make use of different types of I/O such as non-blocking I/O and event driven I/O",
+				"make use of various solutions to perform inter-process communications"
+			],
 			"activities": [
-				"Video on Python Multi Connection Client Server - 4"
+				"Python Multi Connection Client Server - 4"
 			]
 		},
 		{
 			"title": "Trouble Shooting and Future of Networking - 1",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" Congratulations, you've made it to the final day in the course! In the last week of this course, we'll explore the future of computer networking. We'll also cover the practical aspects of troubleshooting a network using popular operating systems. By the end of this module, you'll be able to detect and fix a lot of common network connectivity problems using tools available in Microsoft Windows, MacOS, and Linux operating systems."
+			],
+			"learningObjectives": [
+				"Inspect common network connectivity problems.",
+				"Use tools available in Microsoft Windows, MacOS, and Linux to troubleshoot network issues"
+			],
 			"activities": [
 				"Video on Introduction to Troubleshooting and Future of the Networking",
 				"Video on Ping Internet Control Message Protocol",
@@ -201,8 +347,13 @@
 		},
 		{
 			"title": "Trouble Shooting and Future of Networking - 2",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" Congratulations, you've made it to the final day in the course! In the last week of this course, we'll explore the future of computer networking. We'll also cover the practical aspects of troubleshooting a network using popular operating systems. By the end of this module, you'll be able to detect and fix a lot of common network connectivity problems using tools available in Microsoft Windows, MacOS, and Linux operating systems."
+			],
+			"learningObjectives": [
+				"Inspect common network connectivity problems.",
+				"Use tools available in Microsoft Windows, MacOS, and Linux to troubleshoot network issues"
+			],
 			"activities": [
 				"Video on Name Resolution Tools",
 				"Video on Public DNS Servers",
@@ -212,8 +363,13 @@
 		},
 		{
 			"title": "Trouble Shooting and Future of Networking - 3",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" Congratulations, you've made it to the final day in the course! In the last week of this course, we'll explore the future of computer networking. We'll also cover the practical aspects of troubleshooting a network using popular operating systems. By the end of this module, you'll be able to detect and fix a lot of common network connectivity problems using tools available in Microsoft Windows, MacOS, and Linux operating systems."
+			],
+			"learningObjectives": [
+				"Inspect common network connectivity problems.",
+				"Use tools available in Microsoft Windows, MacOS, and Linux to troubleshoot network issues"
+			],
 			"activities": [
 				"Video on What is the cloud",
 				"Video on Everything as a Service",
@@ -223,8 +379,13 @@
 		},
 		{
 			"title": "Trouble Shooting and Future of Networking - 4",
-			"overview": [],
-			"learningObjectives": [],
+			"overview": [
+				" Congratulations, you've made it to the final day in the course! In the last week of this course, we'll explore the future of computer networking. We'll also cover the practical aspects of troubleshooting a network using popular operating systems. By the end of this module, you'll be able to detect and fix a lot of common network connectivity problems using tools available in Microsoft Windows, MacOS, and Linux operating systems."
+			],
+			"learningObjectives": [
+				"Inspect common network connectivity problems.",
+				"Use tools available in Microsoft Windows, MacOS, and Linux to troubleshoot network issues"
+			],
 			"activities": [
 				"Video on IPv6 Headers",
 				"Video on IPv6 and IPv4 Harmony",
